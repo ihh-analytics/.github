@@ -1,4 +1,4 @@
 # İHH Humanitarian Organization Data & Analytics Team
 
 
-![](static/ihh.png)
+[![](./static/ihh.png)](https://ihh.org.tr/)
